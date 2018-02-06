@@ -1,3 +1,3 @@
-# Eloquent JavaScript
+# Learn & Play
 
-My solutions to the exercises from the book [Eloquent JavaScript](https://eloquentjavascript.net).
+Various stuff to test and advance a little bit
